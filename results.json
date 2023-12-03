@@ -1,0 +1,74 @@
+{
+  "1": {
+    "matches_product_line": true,
+    "matches_age_requirements": true,
+    "is_enrolled_through": true,
+    "is_excluded": true,
+    "has_event": true,
+    "is_denominator": true,
+    "is_numerator": true
+  },
+  "2": {
+    "matches_product_line": true,
+    "matches_age_requirements": false,
+    "is_enrolled_through": true,
+    "is_excluded": true,
+    "has_event": true,
+    "is_denominator": false,
+    "is_numerator": true
+  },
+  "3": {
+    "matches_product_line": true,
+    "matches_age_requirements": true,
+    "is_enrolled_through": true,
+    "is_excluded": false,
+    "has_event": true,
+    "is_denominator": false,
+    "is_numerator": true
+  },
+  "4": {
+    "matches_product_line": false,
+    "matches_age_requirements": true,
+    "is_enrolled_through": true,
+    "is_excluded": true,
+    "has_event": true,
+    "is_denominator": false,
+    "is_numerator": true
+  },
+  "5": {
+    "matches_product_line": true,
+    "matches_age_requirements": true,
+    "is_enrolled_through": true,
+    "is_excluded": true,
+    "has_event": true,
+    "is_denominator": true,
+    "is_numerator": true
+  },
+  "6": {
+    "matches_product_line": true,
+    "matches_age_requirements": true,
+    "is_enrolled_through": true,
+    "is_excluded": true,
+    "has_event": false,
+    "is_denominator": false,
+    "is_numerator": false
+  },
+  "7": {
+    "matches_product_line": true,
+    "matches_age_requirements": true,
+    "is_enrolled_through": true,
+    "is_excluded": true,
+    "has_event": false,
+    "is_denominator": false,
+    "is_numerator": true
+  },
+  "8": {
+    "matches_product_line": true,
+    "matches_age_requirements": true,
+    "is_enrolled_through": true,
+    "is_excluded": true,
+    "has_event": true,
+    "is_denominator": true,
+    "is_numerator": false
+  }
+}
