@@ -38,7 +38,7 @@ class AbstractQualityMeasure(ABC):
         enrolled_end = member_data["enrolledEnd"]
         return enrolled_end == "12/31/2031"
 
-    # Excludes if member had a Stroke Exclusion in 2023
+    # Returns False if member had a Stroke Exclusion in 2023
     def is_excluded(self, member_data, code_groups):
         num_visits = int(member_data["visitNumber"])
         # Checks for each visit
